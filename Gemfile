@@ -5,7 +5,8 @@ gem 'rails', '3.1.1'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-gem 'pg', '0.10.0'
+gem 'pg'
+gem "postgres-pr"
 
 
 # Gems used only for assets and not required
